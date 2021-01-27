@@ -1,0 +1,63 @@
+[66964:66964:0127/160939.307423:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[66929:66929:0127/160946.197686:INFO:CONSOLE(16)] "MiniChat Build Time:  Thu Jan 14 2021 21:32:46 GMT+0800 (+08)", source: https://seller.shopee.co.id/chateasy/minichat.js?_=1611738585916 (16)
+[66929:66929:0127/160946.275852:INFO:CONSOLE(23)] "[Facebook Pixel] - Duplicate Pixel ID: 466924370133774.", source: https://connect.facebook.net/en_US/fbevents.js (23)
+[66929:66929:0127/160947.903662:INFO:CONSOLE(1)] "TypeError: Failed to fetch", source: https://deo.shopeemobile.com/shopee/shopee-seller-live-id/chateasy/vendors~8004e7d2.4c44dc00c3d05a3f00cd.js (1)
+[66929:66929:0127/160947.995117:INFO:CONSOLE(1)] "load chat failed! TypeError: Cannot read property 'user' of undefined", source: https://deo.shopeemobile.com/shopee/shopee-seller-live-id/chateasy/app~21833f8f.dca2c97d941805ad6645.js (1)
+[66967:66977:0127/160948.024502:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 1
+[66967:66977:0127/160949.088616:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 49
+[66967:66977:0127/160949.115070:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 61
+[66967:66977:0127/160949.258833:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 65
+[66967:66977:0127/160949.273142:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 63
+[66967:66977:0127/160949.583939:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 73
+[66967:66977:0127/160949.588764:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 69
+[66967:66977:0127/160949.677281:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 79
+[66967:66977:0127/160950.336149:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 95
+[66929:66929:0127/160951.164615:INFO:CONSOLE(23)] "[Facebook Pixel] - Duplicate Pixel ID: 466924370133774.", source: https://connect.facebook.net/en_US/fbevents.js (23)
+[66967:66977:0127/160952.250350:WARNING:spdy_session.cc(3335)] Received WINDOW_UPDATE for invalid stream 129
+[66967:66977:0127/160952.351941:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 131
+[66929:66929:0127/160954.082473:INFO:CONSOLE(23)] "[Facebook Pixel] - Duplicate Pixel ID: 466924370133774.", source: https://connect.facebook.net/en_US/fbevents.js (23)
+[66967:66977:0127/160954.608037:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 165
+[66967:66977:0127/160955.071231:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 179
+[66967:66977:0127/160955.552582:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 189
+[66967:66977:0127/160955.584945:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 195
+[66967:66977:0127/160955.795935:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 193
+[66967:66977:0127/160955.797576:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 205
+[66967:66977:0127/160955.797662:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 203
+[66967:66977:0127/160955.797742:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 201
+[66967:66977:0127/160955.797810:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 197
+[66967:66977:0127/160955.798395:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 207
+[66967:66977:0127/160955.798473:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 199
+[66967:66977:0127/160955.798548:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 211
+[66967:66977:0127/160956.557876:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 235
+[66967:66977:0127/160956.559084:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 229
+[66967:66977:0127/160956.677063:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 241
+[66967:66977:0127/160956.677590:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 239
+[66967:66977:0127/160956.682033:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 243
+[66967:66977:0127/160957.181854:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 257
+[66967:66977:0127/160957.772644:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 265
+[66967:66977:0127/160957.864648:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 263
+[66967:66977:0127/160958.281940:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 267
+[66967:66977:0127/160958.377489:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 269
+[66967:66977:0127/160958.378617:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 273
+[66929:66929:0127/160958.412926:INFO:CONSOLE(23)] "[Facebook Pixel] - Duplicate Pixel ID: 466924370133774.", source: https://connect.facebook.net/en_US/fbevents.js (23)
+[66967:66977:0127/160958.504094:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 277
+[66967:66977:0127/160958.580515:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 279
+[66967:66977:0127/160958.895663:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 303
+[66967:66977:0127/161000.154381:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 331
+[66967:66977:0127/161000.527494:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 333
+[66967:66977:0127/161000.584969:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 343
+[66967:66977:0127/161000.660685:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 339
+[66967:66977:0127/161000.691854:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 349
+[66967:66977:0127/161001.308359:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 367
+[66967:66977:0127/161001.308847:WARNING:spdy_session.cc(3388)] Received HEADERS for invalid stream 371
+[66929:66929:0127/161002.842594:INFO:CONSOLE(23)] "[Facebook Pixel] - Duplicate Pixel ID: 466924370133774.", source: https://connect.facebook.net/en_US/fbevents.js (23)
+[66929:66929:0127/161003.753165:INFO:CONSOLE(1)] "Uncaught SyntaxError: Identifier 'LP_UNIX_TIME_0_IN_GMT' has already been declared", source: https://click.accesstrade.co.id/js/nct/lp.js (1)
+[66929:66929:0127/161003.770924:INFO:CONSOLE(16)] "MiniChat Build Time:  Thu Jan 14 2021 21:32:46 GMT+0800 (+08)", source: https://seller.shopee.co.id/chateasy/minichat.js?_=1611738603674 (16)
+[66929:66929:0127/161009.721069:INFO:CONSOLE(1)] "*** 83766063", source: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/vendors~sentry.9a5a856227cba36329a6.js (1)
+[66929:66929:0127/161009.845584:INFO:CONSOLE(1)] "!!! 5500", source: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/vendors~sentry.9a5a856227cba36329a6.js (1)
+[66929:66929:0127/161012.727701:INFO:CONSOLE(1)] "@babel/polyfill is loaded more than once on this page. This is probably not desirable/intended and may have consequences if different versions of the polyfills are applied sequentially. If you do need to load the polyfill more than once, use @babel/polyfill/noConflict instead to bypass the warning.", source: https://shopee.co.id/static/jslib_min/jslib_base.js?6a90fa12ec39 (1)
+[66929:66929:0127/161012.800833:INFO:CONSOLE(1)] "qos:  HTML 987", source: https://shopee.co.id/static/jsutil_min/jsutil_base.js?166cd399bd75 (1)
+[66929:66929:0127/161013.304531:INFO:CONSOLE(23)] "[Facebook Pixel] - Duplicate Pixel ID: 466924370133774.", source: https://connect.facebook.net/en_US/fbevents.js (23)
+[66929:66929:0127/161013.382584:INFO:CONSOLE(1)] "[RequeuestQueue] TypeError: Failed to fetch", source: https://shopee.co.id/static/jslib_min/jslib_base.js?6a90fa12ec39 (1)
+[66929:66929:0127/161013.382738:INFO:CONSOLE(1)] "[RequeuestQueue] TypeError: Failed to fetch", source: https://shopee.co.id/static/jslib_min/jslib_base.js?6a90fa12ec39 (1)
+[66929:66929:0127/161014.310336:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

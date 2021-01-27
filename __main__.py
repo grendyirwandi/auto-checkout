@@ -16,7 +16,7 @@ UC.TARGET_VERSION = 87 # Versi chrome
 
 options = UC.ChromeOptions()
 options.headless = False
-options.add_argument("user-data-dir=C:/Users/Ngeng/AppData/Local/Google/Chrome/User Data/Profile 1")
+options.add_argument("user-data-dir=./user-data-dir")
 options.add_argument('--disable-extensions')
 options.add_argument("start-maximized")
 options.add_argument("disable-infobars")
@@ -75,7 +75,7 @@ def main():
     load_cookies()
     browser.get(link_produk)
 
-    startTime = now.replace(hour=18, minute=0, second=0, year=2021,day=26,month=1)
+    startTime = now.replace(hour=16, minute=10, second=0, year=2021,day=27,month=1)
     while True :
         if datetime.datetime.now() < startTime :
             browser.refresh()

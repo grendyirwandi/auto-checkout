@@ -1,0 +1,15 @@
+2021/01/27-16:09:39.235 10582 Reusing MANIFEST /home/ngeng/Documents/auto-checkout/user-data-dir/Default/Local Storage/leveldb/MANIFEST-000001
+2021/01/27-16:09:39.236 10582 Recovering log #7
+2021/01/27-16:09:39.237 10582 Level-0 table #10: started
+2021/01/27-16:09:39.295 10582 Level-0 table #10: 38320 bytes OK
+2021/01/27-16:09:39.336 10582 Delete type=0 #7
+2021/01/27-16:09:39.336 1059c Compacting 4@0 + 0@1 files
+2021/01/27-16:09:39.467 1059c Generated table #12@0: 17 keys, 127815 bytes
+2021/01/27-16:09:39.467 1059c Compacted 4@0 + 0@1 files => 127815 bytes
+2021/01/27-16:09:39.591 1059c compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/01/27-16:09:39.592 1059c Delete type=2 #3
+2021/01/27-16:09:39.592 1059c Delete type=2 #8
+2021/01/27-16:09:39.592 1059c Delete type=2 #10
+2021/01/27-16:09:39.592 1059c Delete type=2 #6
+2021/01/27-16:10:13.526 1059c Level-0 table #14: started
+2021/01/27-16:10:13.716 1059c Level-0 table #14: 37633 bytes OK

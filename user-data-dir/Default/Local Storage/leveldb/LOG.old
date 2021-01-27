@@ -1,0 +1,11 @@
+2021/01/27-16:08:09.169 103b4 Reusing MANIFEST /home/ngeng/Documents/auto-checkout/user-data-dir/Default/Local Storage/leveldb/MANIFEST-000001
+2021/01/27-16:08:09.170 103b4 Recovering log #4
+2021/01/27-16:08:09.170 103b4 Level-0 table #6: started
+2021/01/27-16:08:09.222 103b4 Level-0 table #6: 36773 bytes OK
+2021/01/27-16:08:09.222 103b4 Recovering log #6
+2021/01/27-16:08:09.222 103b4 Reusing old log /home/ngeng/Documents/auto-checkout/user-data-dir/Default/Local Storage/leveldb/000006.log 
+2021/01/27-16:08:09.261 103b4 Delete type=0 #4
+2021/01/27-16:08:09.261 103b4 Delete type=2 #7
+2021/01/27-16:08:30.122 103b4 Level-0 table #8: started
+2021/01/27-16:08:30.202 103b4 Level-0 table #8: 41658 bytes OK
+2021/01/27-16:08:30.243 103b4 Delete type=0 #6

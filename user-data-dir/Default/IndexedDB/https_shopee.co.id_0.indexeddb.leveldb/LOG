@@ -1,0 +1,45 @@
+2021/01/27-16:09:43.770 1059b Reusing MANIFEST /home/ngeng/Documents/auto-checkout/user-data-dir/Default/IndexedDB/https_shopee.co.id_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/27-16:09:43.770 1059b Recovering log #31
+2021/01/27-16:09:43.773 1059b Reusing old log /home/ngeng/Documents/auto-checkout/user-data-dir/Default/IndexedDB/https_shopee.co.id_0.indexeddb.leveldb/000031.log 
+2021/01/27-16:09:43.773 1059b Delete type=2 #30
+2021/01/27-16:09:44.902 10599 Level-0 table #36: started
+2021/01/27-16:09:44.958 10599 Level-0 table #36: 116065 bytes OK
+2021/01/27-16:09:45.003 10599 Delete type=0 #31
+2021/01/27-16:09:45.003 10599 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 3430 : 1
+2021/01/27-16:09:45.003 10599 Compacting 1@0 + 1@1 files
+2021/01/27-16:09:45.048 10599 Generated table #37@0: 1146 keys, 17770 bytes
+2021/01/27-16:09:45.048 10599 Compacted 1@0 + 1@1 files => 17770 bytes
+2021/01/27-16:09:45.091 10599 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/27-16:09:45.092 10599 Delete type=2 #36
+2021/01/27-16:09:45.092 10599 Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 3430 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/01/27-16:09:48.497 10583 Level-0 table #39: started
+2021/01/27-16:09:48.567 10583 Level-0 table #39: 13005 bytes OK
+2021/01/27-16:09:48.690 10583 Delete type=2 #33
+2021/01/27-16:09:48.690 10583 Delete type=0 #35
+2021/01/27-16:09:48.690 10583 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 3541 : 1
+2021/01/27-16:09:48.690 10583 Compacting 1@0 + 1@1 files
+2021/01/27-16:09:48.914 10583 Generated table #40@0: 1151 keys, 17862 bytes
+2021/01/27-16:09:48.914 10583 Compacted 1@0 + 1@1 files => 17862 bytes
+2021/01/27-16:09:48.952 10583 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/27-16:09:48.953 10583 Delete type=2 #39
+2021/01/27-16:09:48.954 10583 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 3541 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/01/27-16:10:13.747 10582 Level-0 table #42: started
+2021/01/27-16:10:13.850 10582 Level-0 table #42: 121625 bytes OK
+2021/01/27-16:10:13.951 10582 Delete type=0 #38
+2021/01/27-16:10:13.951 10582 Delete type=2 #37
+2021/01/27-16:10:13.952 10582 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x10\x00\x00\x05' @ 3558 : 1
+2021/01/27-16:10:13.952 10582 Compacting 1@0 + 1@1 files
+2021/01/27-16:10:14.065 10582 Generated table #43@0: 1510 keys, 21858 bytes
+2021/01/27-16:10:14.065 10582 Compacted 1@0 + 1@1 files => 21858 bytes
+2021/01/27-16:10:14.198 10582 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/27-16:10:14.198 10582 Delete type=2 #42
+2021/01/27-16:10:14.199 10582 Delete type=2 #40
+2021/01/27-16:10:14.199 10582 Manual compaction at level-0 from '\x00\x10\x00\x00\x05' @ 3558 : 1 .. (end); will stop at (end)
+2021/01/27-16:10:14.199 10582 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x10\x00\x00\x05' @ 3558 : 1
+2021/01/27-16:10:14.199 10582 Compacting 1@1 + 1@2 files
+2021/01/27-16:10:14.266 10582 Generated table #44@1: 226 keys, 10054 bytes
+2021/01/27-16:10:14.266 10582 Compacted 1@1 + 1@2 files => 10054 bytes
+2021/01/27-16:10:14.306 10582 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/27-16:10:14.306 10582 Delete type=2 #43
+2021/01/27-16:10:14.306 10582 Delete type=2 #5
+2021/01/27-16:10:14.307 10582 Manual compaction at level-1 from '\x00\x10\x00\x00\x05' @ 3558 : 1 .. (end); will stop at (end)
